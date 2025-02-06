@@ -1,0 +1,41 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+        }
+        header, footer {
+            background: #282828;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+            background: white;
+            margin: 50px auto;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #ffcc00; /* Flash's signature lightning */
+        }
+        h2 {
+            color: #660099; /* A nod to XS, blending her suit colors */
+            margin-top: 20px;
+        }
+        p {
+            font-size: 18px;
+            color: #0055ff; /* Inspired by Cisco's vibe tech */
+            margin: 5px 0;
+        }
+        b {
+            color: #cc0000; /* Reverse Flash hidden menace */
+        }
+        footer {
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
